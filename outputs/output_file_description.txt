@@ -1,0 +1,65 @@
+cube1.svg - Input was:
+cube.obj
+300 500
+0 0 10
+0 0 0
+
+cube2.svg - Input was:
+cube.obj
+400 500
+2 2 10
+0 0 0
+
+cube3.svg - Input was:
+cube.obj
+500 500
+4 5 20
+0 90 0
+
+cube4.svg - Input was:
+cube.obj
+480 400
+10 15 20
+130 20 38
+
+cube5.svg - Input was:
+cube.obj
+472 310
+10 7 60
+30 10 98
+
+f16_1.svg - Input was:
+f16.obj
+472 310
+10 7 60
+30 10 98
+
+f16_2.svg - Input was:
+f16.obj
+480 400
+10 15 20
+130 20 38
+
+f16_3.svg - Input was:
+f16.obj
+500 500
+4 5 20
+0 90 0
+
+f16_4.svg - Input was:
+f16.obj
+400 500
+2 2 10
+0 0 0
+
+f16_5.svg - Input was:
+f16.obj
+300 500
+0 0 10
+0 0 0
+
+f16_6.svg - Input was:
+f16.obj
+500 500
+2 2 10
+180 0 0
